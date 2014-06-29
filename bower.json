@@ -1,0 +1,27 @@
+{
+  "name": "social-harvest-site",
+  "version": "0.1.0",
+  "homepage": "http://www.socialharvest.io",
+  "authors": [
+    "Tom Maiaroto <tom@shift8creative.com>"
+  ],
+  "description": "static information site for socialharvest.io",
+  "main": "index.html",
+  "keywords": [
+    "socialharvest",
+    "social",
+    "harvest"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pure": "~0.5.0"
+  }
+}
