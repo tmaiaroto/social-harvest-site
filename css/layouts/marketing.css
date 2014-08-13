@@ -219,9 +219,16 @@ a.pure-button-primary {
 
 /* This is the class used for the footer */
 .footer {
+    color: #7F8C8D;
     background: #111;
     font-size: 12px;
     font-weight: 200;
+}
+.footer a {
+    color: #7F8C8D;
+}
+.footer a:hover {
+    color: #ccc;
 }
 
 /*
